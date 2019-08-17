@@ -113,7 +113,7 @@
 		</repository>
 	</repositories>
 	-->
-	
+	<!--
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
@@ -125,7 +125,7 @@
 			<name>Nexus Snapshots Repository</name>
 			<url>http://18.219.8.35:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
-	</distributionManagement>
+	</distributionManagement>  -->
 	<profiles>
 		<profile>
 			<id>sonar</id>
